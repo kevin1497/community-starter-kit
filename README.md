@@ -1,10 +1,9 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
-
+this APP is automatics bot to help new user understand github work.
 ## What it does
 
-FEATURES PLACEHOLDER
+yes.--
 
 ## Getting started
 
